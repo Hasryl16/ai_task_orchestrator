@@ -1,0 +1,17 @@
+# Environment — never commit real secrets
+.env
+!.env.example
+
+# Docker
+*.log
+docker-compose.override.yml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo

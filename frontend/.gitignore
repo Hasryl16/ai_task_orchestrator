@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Testing
+coverage/
+
+# CRA / React Scripts cache
+.eslintcache
+
+# Local env
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+!.env.example
+
+# OS
+.DS_Store
